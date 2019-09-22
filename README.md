@@ -1,6 +1,6 @@
 # vomit_app
 
-[![Build Status](https://travis-ci.com/magrossi/vommit_app.svg?branch=master)](https://travis-ci.com/magrossi/vomit_app)
+[![Build Status](https://travis-ci.com/magrossi/vomit_app.svg?branch=master)](https://travis-ci.com/magrossi/vomit_app)
 
 Discover what your baby is allergic to!
 
